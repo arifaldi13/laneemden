@@ -4,7 +4,7 @@ The Lane-Emden equation can be written as\
 \
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{1}{\xi^{2}}&space;\frac{d}{d\xi}&space;\left&space;(&space;\xi^{2}\frac{d\theta}{d\xi}&space;\right&space;)&space;&plus;&space;\theta^{n}&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{1}{\xi^{2}}&space;\frac{d}{d\xi}&space;\left&space;(&space;\xi^{2}\frac{d\theta}{d\xi}&space;\right&space;)&space;&plus;&space;\theta^{n}&space;=&space;0" title="\frac{1}{\xi^{2}} \frac{d}{d\xi} \left ( \xi^{2}\frac{d\theta}{d\xi} \right ) + \theta^{n} = 0" /></a>
 \
-where <a href="https://www.codecogs.com/eqnedit.php?latex=\xi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\xi" title="\xi" /></a> is the radius without dimensions and <a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a> is related to density.
+where <a href="https://www.codecogs.com/eqnedit.php?latex=\xi" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\xi" title="\xi" /></a> is the dimensionless radius and <a href="https://www.codecogs.com/eqnedit.php?latex=\theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta" title="\theta" /></a> is related to density.
 \
 The equation above can be simplified into two equations
 \
